@@ -21,7 +21,7 @@
     "lint": "eslint \"**/*.{ts,js}\"",
     "start": "esno src/index.ts",
     "test": "vitest",
-    "typeCheck": "tsc --noEmit",
+    "typecheck": "tsc --noEmit",
     "release": "np"
   },
   "devDependencies": {
