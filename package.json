@@ -19,6 +19,7 @@
   "scripts": {
     "build": "unbuild",
     "lint": "eslint \"**/*.{ts,js}\"",
+    "fix": "eslint --fix \"**/*.{ts,js}\"",
     "start": "esno src/index.ts",
     "test": "vitest",
     "typecheck": "tsc --noEmit",
