@@ -8,7 +8,7 @@ specifiers:
   typescript: 4.6.4
   unbuild: 0.7.4
   vite: 2.9.8
-  vitest: 0.10.1
+  vitest: 0.10.5
 
 devDependencies:
   '@antfu/eslint-config': 0.23.0_t725usgvqspm5woeqpaxbfp2qu
@@ -18,7 +18,7 @@ devDependencies:
   typescript: 4.6.4
   unbuild: 0.7.4
   vite: 2.9.8
-  vitest: 0.10.1
+  vitest: 0.10.5
 
 packages:
 
@@ -5084,8 +5084,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vitest/0.10.1:
-    resolution: {integrity: sha512-jFNObjJ48WnfJzxpopJOrd7ZnRCE3OGgE2KSQ1AGmKxNPTgadMCLx81GBrIcxIjuz2E/8qmGBPtC5VH01ihl7A==}
+  /vitest/0.10.5:
+    resolution: {integrity: sha512-4qXdNbHwAd9YcsztJoVMWUQGcMATVlY9Xd95I3KQ2JJwDLTL97f/jgfGRotqptvNxdlmme5TBY0Gv+l6+JSYvA==}
     engines: {node: '>=v14.16.0'}
     hasBin: true
     peerDependencies:
