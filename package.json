@@ -28,7 +28,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "0.23.0",
     "eslint": "8.15.0",
-    "esno": "0.14.1",
+    "esno": "0.15.0",
     "np": "7.6.1",
     "typescript": "4.6.4",
     "unbuild": "0.7.4",
