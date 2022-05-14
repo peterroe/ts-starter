@@ -26,7 +26,7 @@
     "release": "np"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "0.23.0",
+    "@antfu/eslint-config": "0.23.1",
     "eslint": "8.15.0",
     "esno": "0.15.0",
     "np": "7.6.1",
