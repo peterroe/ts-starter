@@ -1,7 +1,7 @@
 {
   "name": "ts-starter",
   "version": "1.0.0",
-  "packageManager": "pnpm@7.1.0",
+  "packageManager": "pnpm@7.1.1",
   "description": "typescript-template",
   "keywords": ["typescript", "template"],
   "license": "MIT",
