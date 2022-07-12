@@ -22,7 +22,8 @@
     "fix": "eslint --fix \"**/*.{ts,js}\"",
     "start": "esno src/index.ts",
     "test": "vitest",
-    "release": "np"
+    "release": "np",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@antfu/eslint-config": "0.25.2",
