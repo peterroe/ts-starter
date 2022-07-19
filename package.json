@@ -1,7 +1,7 @@
 {
   "name": "ts-starter",
   "version": "1.0.0",
-  "packageManager": "pnpm@7.5.1",
+  "packageManager": "pnpm@7.5.2",
   "description": "typescript-template",
   "keywords": ["typescript", "template"],
   "license": "MIT",
@@ -27,12 +27,12 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "0.25.2",
-    "eslint": "8.19.0",
+    "eslint": "8.20.0",
     "esno": "0.16.3",
     "np": "7.6.2",
     "typescript": "4.7.4",
     "unbuild": "0.7.4",
-    "vite": "2.9.13",
-    "vitest": "0.18.0"
+    "vite": "3.0.2",
+    "vitest": "0.18.1"
   }
 }
