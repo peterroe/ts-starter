@@ -28,6 +28,9 @@
     "release": "bumpp",
     "typecheck": "tsc --noEmit"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "0.25.2",
     "bumpp": "^8.2.1",
