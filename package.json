@@ -1,7 +1,7 @@
 {
   "name": "ts-starter",
   "version": "1.0.0",
-  "packageManager": "pnpm@7.6.0",
+  "packageManager": "pnpm@7.7.0",
   "description": "typescript-template",
   "keywords": [
     "typescript",
