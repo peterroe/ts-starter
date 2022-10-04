@@ -28,6 +28,11 @@
     "release": "bumpp",
     "typecheck": "tsc --noEmit"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint && npm run typecheck"
+    }
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
@@ -36,6 +41,7 @@
     "bumpp": "8.2.1",
     "eslint": "8.24.0",
     "esno": "0.16.3",
+    "husky": "4.3.8",
     "typescript": "4.8.4",
     "unbuild": "0.8.11",
     "vite": "3.1.4",
